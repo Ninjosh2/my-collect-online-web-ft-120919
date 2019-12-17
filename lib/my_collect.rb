@@ -9,7 +9,7 @@ def my_collect(array)
   
     i += 1
   end
-  name_collection
+  names
 end
 
 my_collect(list) {|i| i.split(" ").first}
